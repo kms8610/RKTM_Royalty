@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: DrugLab -->
+  <Make_PolarisHealingPotion.label>치유 물약 제작</Make_PolarisHealingPotion.label>
+  <Make_PolarisHealingPotion.description>치유 물약을 만듭니다.</Make_PolarisHealingPotion.description>
+  <Make_PolarisHealingPotion.jobString>치유 물약 제작 중.</Make_PolarisHealingPotion.jobString>
+
+  <Make_PolarisAntibiotic.label>복합 항생제 제작</Make_PolarisAntibiotic.label>
+  <Make_PolarisAntibiotic.description>복합 항생제를 만듭니다.</Make_PolarisAntibiotic.description>
+  <Make_PolarisAntibiotic.jobString>복합 항생제 제작 중.</Make_PolarisAntibiotic.jobString>
+
+  <Make_PolarisReceptorAntagonist.label>수용체 길항제 제작</Make_PolarisReceptorAntagonist.label>
+  <Make_PolarisReceptorAntagonist.description>수용체 길항제를 만듭니다.</Make_PolarisReceptorAntagonist.description>
+  <Make_PolarisReceptorAntagonist.jobString>수용체 길항제 제작 중.</Make_PolarisReceptorAntagonist.jobString>
+
+  <Make_PolarisPsionwire.label>사이언 제작</Make_PolarisPsionwire.label>
+  <Make_PolarisPsionwire.description>사이언을 만듭니다.</Make_PolarisPsionwire.description>
+  <Make_PolarisPsionwire.jobString>사이언 제작 중.</Make_PolarisPsionwire.jobString>
+
+  <Make_PolarisMechSerumTraitreleaser.label>특성해금 메카나이트 혈청 제작</Make_PolarisMechSerumTraitreleaser.label>
+  <Make_PolarisMechSerumTraitreleaser.description>특성해금 메카나이트 혈청을 만듭니다.</Make_PolarisMechSerumTraitreleaser.description>
+  <Make_PolarisMechSerumTraitreleaser.jobString>특성해금 메카나이트 혈청 제작 중</Make_PolarisMechSerumTraitreleaser.jobString>
+
+</LanguageData>
