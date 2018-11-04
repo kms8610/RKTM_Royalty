@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_FeralCleaver.label>페럴 푸줏칼</MeleeWeapon_FeralCleaver.label>
+  <MeleeWeapon_FeralCleaver.description>조잡한 급조 푸줏칼입니다.</MeleeWeapon_FeralCleaver.description>
+  <MeleeWeapon_FeralCleaver.tools.0.label>손잡이</MeleeWeapon_FeralCleaver.tools.0.label>
+  <MeleeWeapon_FeralCleaver.tools.1.label>칼날</MeleeWeapon_FeralCleaver.tools.1.label>
+
+  <MeleeWeapon_FeralGlaive.label>페럴 언월도</MeleeWeapon_FeralGlaive.label>
+  <MeleeWeapon_FeralGlaive.description>강력한 급조 언월도입니다.</MeleeWeapon_FeralGlaive.description>
+  <MeleeWeapon_FeralGlaive.tools.0.label>자루</MeleeWeapon_FeralGlaive.tools.0.label>
+  <MeleeWeapon_FeralGlaive.tools.1.label>칼날</MeleeWeapon_FeralGlaive.tools.1.label>
+
+</LanguageData>

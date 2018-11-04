@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Feral_ScatterCannon.label>파열포</Feral_ScatterCannon.label>
+  <Feral_ScatterCannon.description>지나치게 거대한 손대포입니다. 무지막지한 양의 금속 파편을 뱉어냅니다.</Feral_ScatterCannon.description>
+
+  <Bullet_RivetCannon.label>리벳</Bullet_RivetCannon.label>
+
+  <Feral_RivetCannon.label>리벳포</Feral_RivetCannon.label>
+  <Feral_RivetCannon.description>상당한 개조를 거친 공업용 리벳건입니다.</Feral_RivetCannon.description>
+
+  <Bullet_DMG.label>총알</Bullet_DMG.label>
+
+  <Feral_DMG.label>쌍열기관총</Feral_DMG.label>
+  <Feral_DMG.description>총이 두 배면 기쁨도 두 배.</Feral_DMG.description>
+
+  <Sunderer.label>참도</Sunderer.label>
+  <Sunderer.description>거대한 칼날입니다.</Sunderer.description>
+  <Sunderer.tools.0.label>자루</Sunderer.tools.0.label>
+  <Sunderer.tools.1.label>칼날</Sunderer.tools.1.label>
+
+  <Carver.label>카버</Carver.label>
+  <Carver.description>급조된 도끼 한쌍입니다. 간단하지만 효과적인 근접 무기입니다.</Carver.description>
+  <Carver.tools.0.label>손잡이</Carver.tools.0.label>
+  <Carver.tools.1.label>칼날</Carver.tools.1.label>
+  <Carver.tools.2.label>칼끝</Carver.tools.2.label>
+
+  <Bullet_SporeSmoker.label>연막 포자</Bullet_SporeSmoker.label>
+
+  <Feral_SporeSmoker.label>연막 포자</Feral_SporeSmoker.label>
+  <Feral_SporeSmoker.description>독성 포자로 이루어진 공생 군집입니다. 명중 지점에 짙은 연막을 형성합니다.</Feral_SporeSmoker.description>
+
+</LanguageData>

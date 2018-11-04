@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_SeoLi.label>결정 파편</Bullet_SeoLi.label>
+
+  <YP_SeoLi.label>YP 파편 소총</YP_SeoLi.label>
+  <YP_SeoLi.description>연화 정밀의 "서리" 파편 소총은 재래식 돌격소총에 비해 장탄량이 많고 연사속도도 높습니다. 하지만 이를 위해 화력과 사거리, 장갑 관통 능력을 희생해야만 했습니다.</YP_SeoLi.description>
+  <YP_SeoLi.tools.0.label>개머리판</YP_SeoLi.tools.0.label>
+  <YP_SeoLi.tools.1.label>총신</YP_SeoLi.tools.1.label>
+
+  <Bullet_SagPung.label>나노군집</Bullet_SagPung.label>
+
+  <YP_SagPung.label>YP 군집총</YP_SagPung.label>
+  <YP_SagPung.description>연화 정밀 "삭풍" 군집총은 단거리 나노기술 병기입니다. 삭풍은 지성이 있는 나노머신 군집을 탄환 대신 발사합니다. 신속하고 놀라울 정도로 정확하기 때문에 근거리에서 경무장 상대를 처리할 때 이상적입니다.</YP_SagPung.description>
+  <YP_SagPung.tools.0.label>개머리판</YP_SagPung.tools.0.label>
+  <YP_SagPung.tools.1.label>총신</YP_SagPung.tools.1.label>
+
+  <Bullet_SangAe.label>결정 스파이크</Bullet_SangAe.label>
+
+  <YP_SangAe.label>YP 스파이크 소총</YP_SangAe.label>
+  <YP_SangAe.description>연화 정밀의 "상애(서리 아지랑이)"입니다. 대부분의 소총과 달리 상애는 탄소 결정체로 이루어진 장갑 관통 스파이크를 발사합니다.</YP_SangAe.description>
+  <YP_SangAe.tools.0.label>개머리판</YP_SangAe.tools.0.label>
+  <YP_SangAe.tools.1.label>총신</YP_SangAe.tools.1.label>
+
+  <Bullet_SeolHwa.label>결정 파편</Bullet_SeolHwa.label>
+
+  <YP_SeolHwa.label>YP 파편 쌍권총</YP_SeolHwa.label>
+  <YP_SeolHwa.description>연화 정밀제 "설화" 권총 한 쌍입니다. 설화는 사거리가 매우 짧지만 일단 사거리 내에 잡은 적은 그대로 찢어발길 수 있습니다.</YP_SeolHwa.description>
+  <YP_SeolHwa.tools.0.label>손잡이</YP_SeolHwa.tools.0.label>
+  <YP_SeolHwa.tools.1.label>칼날</YP_SeolHwa.tools.1.label>
+
+  <Bullet_GeugGwang.label>극초단파</Bullet_GeugGwang.label>
+
+  <YP_GeugGwang.label>YP 극초단파 방출기</YP_GeugGwang.label>
+  <YP_GeugGwang.description>연화 정밀의 "극광"은 목표의 피부 수분을 끓어오르게 만드는 극초단파를 방출합니다. 엄청난 고통을 일으키며, 군중 제어 무기로 완벽합니다.</YP_GeugGwang.description>
+  <YP_GeugGwang.tools.0.label>개머리판</YP_GeugGwang.tools.0.label>
+  <YP_GeugGwang.tools.1.label>총신</YP_GeugGwang.tools.1.label>
+
+  <Bullet_VectorShot.label>스마트 다트</Bullet_VectorShot.label>
+
+  <YP_VectorShot.label>YP 벡터샷</YP_VectorShot.label>
+  <YP_VectorShot.description>"누리(우박)" 벡터샷은 유도 시스템이 내장된 스마트 볼트를 쏘는 시가전 화기입니다. 다중파장 스캐너를 이용해 엄폐물 뒤에 숨은 적도 조준할 수 있습니다. 벽을 무시한다는 건 아주 쓸만한 강점입니다만, 사거리가 워낙 짧아 근거리 사격전을 위한 특수화기로 용도가 제한됩니다.</YP_VectorShot.description>
+  <YP_VectorShot.tools.0.label>개머리판</YP_VectorShot.tools.0.label>
+  <YP_VectorShot.tools.1.label>총신</YP_VectorShot.tools.1.label>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_Hrunting.label>용해탄</Bullet_Hrunting.label>
+
+  <JI_Hrunting.label>JI 용해소총</JI_Hrunting.label>
+  <JI_Hrunting.description>"흐룬팅" 용해 소총. 요툰 인터스텔라 제품입니다. 이 무기는 융용된 금속을 탄환 대신 사격합니다. 흐룬팅의 설계자는 자질구레한 것은 모두 무시하고 오로지 순수한 화력에만 집중했습니다.</JI_Hrunting.description>
+
+  <Bullet_Trollsverd.label>용해탄</Bullet_Trollsverd.label>
+
+  <JI_Trollsverd.label>JI 용해권총</JI_Trollsverd.label>
+  <JI_Trollsverd.description>"트롤스베르드"는 요툰 인터스텔라제 대형 권총입니다. 융용된 합금 덩어리를 발사하는 트롤스베르드는 단 한 방으로 개척지에서 벌어지는 대부분의 사건을 정리할 수 있습니다.</JI_Trollsverd.description>
+
+  <Bullet_Fafnir.label>용해탄</Bullet_Fafnir.label>
+
+  <JI_Fafnir.label>JI 공성산탄총</JI_Fafnir.label>
+  <JI_Fafnir.description>이 요툰 인터스텔라의 특대형 산탄총 "파프닐"은 대공포 포신을 잘라 만든 근접전투용 중화기입니다. 시가지에서 메카노이드와 싸우기 위해 만든 거대한 무기라 사람이 맞으면 시뻘건 곤죽으로 변하겠지요.</JI_Fafnir.description>
+
+  <Bullet_Gramr.label>용해탄</Bullet_Gramr.label>
+
+  <JI_Gramr.label>JI 대 메카노이드 소총</JI_Gramr.label>
+  <JI_Gramr.description>요툰 인터스텔라의 "그람" 대메카노이드 소총입니다. 엄청나게 무겁고 반동도 무지막지하지만, 그 화력은 모든 것을 정당화합니다.</JI_Gramr.description>
+
+  <Bullet_Grendel.label>공성포탄</Bullet_Grendel.label>
+
+  <JI_Grendel.label>JI 공성포</JI_Grendel.label>
+  <JI_Grendel.description>요툰 인터스텔라제 "그렌델". 끔찍했던 메카노이드 전쟁의 유산으로 인간이 휴대할 수 있는 가장 가공할 공성병기 중 하나입니다.</JI_Grendel.description>
+
+  <Bullet_Muspell.label>파편탄</Bullet_Muspell.label>
+
+  <JI_Muspell.label>JI 제압포</JI_Muspell.label>
+  <JI_Muspell.description>"무스펠" 제압포는 소형 메카노이드 무리에 대응하기 위한 요툰 인터스텔라의 답입니다. 초고열 금속 파편을 끝없이 쏟아냅니다.</JI_Muspell.description>
+
+</LanguageData>

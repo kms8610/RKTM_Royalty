@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_MSST.label>권총탄</Bullet_MSST.label>
+
+  <GD_MSST.label>GD 모듈러 삼혈총</GD_MSST.label>
+  <GD_MSST.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 표준형 삼혈총 버전입니다. 전작인 링스 전술 권총 같은 재래식 권총과 달리 이 권총은 튜브식 총열 겸 탄창과 전기 격발식 탄약을 사용합니다. 총알 세 발을 동시에 사격합니다.</GD_MSST.description>
+  <GD_MSST.tools.0.label>손잡이</GD_MSST.tools.0.label>
+  <GD_MSST.tools.1.label>총열</GD_MSST.tools.1.label>
+
+  <Bullet_MSSS.label>플레솃</Bullet_MSSS.label>
+
+  <GD_MSSS.label>GD 모듈러 속사권총</GD_MSSS.label>
+  <GD_MSSS.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 속사총 타입입니다. 탄창 겸 총열 튜브에서 대량의 장갑관통 다트를 고속으로 쏟아냅니다.</GD_MSSS.description>
+  <GD_MSSS.tools.0.label>손잡이</GD_MSSS.tools.0.label>
+  <GD_MSSS.tools.1.label>총열</GD_MSSS.tools.1.label>
+
+  <Bullet_MSSF.label>소형 유탄</Bullet_MSSF.label>
+
+  <GD_MSSF.label>GD 모듈러 유탄 권총</GD_MSSF.label>
+  <GD_MSSF.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 유탄권총 타입입니다. 본래 신호탄 발사기로 설계되었지만 금새 살상용도로 전환되어 지금은 파편 유탄을 발사하고 있습니다.</GD_MSSF.description>
+  <GD_MSSF.tools.0.label>손잡이</GD_MSSF.tools.0.label>
+  <GD_MSSF.tools.1.label>총열</GD_MSSF.tools.1.label>
+
+  <Bullet_TacticalPistol.label>권총탄</Bullet_TacticalPistol.label>
+
+  <GD_TacticalPistol.label>GD 전술권총</GD_TacticalPistol.label>
+  <GD_TacticalPistol.description>그레이데일 디펜스의 "링스" 전술권총입니다. 가볍고 다루기 쉬운 무기지만 이제는 도태되어 오셀롯 모듈러 부무장 시스템으로 대체되었습니다.</GD_TacticalPistol.description>
+  <GD_TacticalPistol.tools.0.label>손잡이</GD_TacticalPistol.tools.0.label>
+  <GD_TacticalPistol.tools.1.label>총열</GD_TacticalPistol.tools.1.label>
+
+  <Bullet_ModularRifle.label>소총탄</Bullet_ModularRifle.label>
+
+  <GD_ModularCarbine.label>GD 모듈러 카빈</GD_ModularCarbine.label>
+  <GD_ModularCarbine.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 카빈 모델은 작고 가벼워 보안 임무에 주로 사용됩니다. 다른 모듈형 소총 체계의 기반입니다.</GD_ModularCarbine.description>
+  <GD_ModularCarbine.tools.0.label>개머리판</GD_ModularCarbine.tools.0.label>
+  <GD_ModularCarbine.tools.1.label>총열</GD_ModularCarbine.tools.1.label>
+
+  <GD_ModularRifle.label>GD 모듈러 소총</GD_ModularRifle.label>
+  <GD_ModularRifle.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 소총 모델은 튼튼하고 신뢰성 높으며 다재다능합니다.</GD_ModularRifle.description>
+  <GD_ModularRifle.tools.0.label>개머리판</GD_ModularRifle.tools.0.label>
+  <GD_ModularRifle.tools.1.label>총열</GD_ModularRifle.tools.1.label>
+
+  <Bullet_ModularDMR.label>소총탄</Bullet_ModularDMR.label>
+
+  <GD_ModularDMR.label>GD 모듈러 DMR</GD_ModularDMR.label>
+  <GD_ModularDMR.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 가벼운 정밀 화력지원 화기로 설계된 지정 사수 소총 모델입니다.</GD_ModularDMR.description>
+  <GD_ModularDMR.tools.0.label>개머리판</GD_ModularDMR.tools.0.label>
+  <GD_ModularDMR.tools.1.label>총열</GD_ModularDMR.tools.1.label>
+
+  <GD_ModularLMG.label>GD 모듈러 LMG</GD_ModularLMG.label>
+  <GD_ModularLMG.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 경기관총 모델은 분대급 화력 지원용으로 설계됐습니다.</GD_ModularLMG.description>
+  <GD_ModularLMG.tools.0.label>개머리판</GD_ModularLMG.tools.0.label>
+  <GD_ModularLMG.tools.1.label>총열</GD_ModularLMG.tools.1.label>
+
+  <Bullet_HVSMG.label>권총탄</Bullet_HVSMG.label>
+
+  <GD_HVSMG.label>그레이데일 고속 기관단총</GD_HVSMG.label>
+  <GD_HVSMG.description>"카라칼"은 그레이데일에서 제작한 기관단총으로, 근접 강습전에 맞춰 설계되었습니다. 이제는 "오셀롯" 부무장 시스템으로 대체되어 더 이상 생산되지 않습니다.</GD_HVSMG.description>
+
+  <Bullet_MultiLauncher.label>유탄</Bullet_MultiLauncher.label>
+
+  <GD_GrenadeLauncher.label>GD 다목적 발사기</GD_GrenadeLauncher.label>
+  <GD_GrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 적절한 설비가 갖춰져 있다면 간단한 조작으로 설정을 변경할 수 있습니다. 이 기본 버전은 파편 유탄을 발사합니다.</GD_GrenadeLauncher.description>
+  <GD_GrenadeLauncher.tools.0.label>개머리판</GD_GrenadeLauncher.tools.0.label>
+  <GD_GrenadeLauncher.tools.1.label>총열</GD_GrenadeLauncher.tools.1.label>
+
+  <Bullet_INGrenadeLauncher.label>소이탄</Bullet_INGrenadeLauncher.label>
+
+  <GD_INGrenadeLauncher.label>그레이데일 소이탄 발사기</GD_INGrenadeLauncher.label>
+  <GD_INGrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 이 버전은 불을 붙이는 소이탄을 발사합니다.</GD_INGrenadeLauncher.description>
+  <GD_INGrenadeLauncher.tools.0.label>개머리판</GD_INGrenadeLauncher.tools.0.label>
+  <GD_INGrenadeLauncher.tools.1.label>총열</GD_INGrenadeLauncher.tools.1.label>
+
+  <Bullet_SKGrenadeLauncher.label>연막탄</Bullet_SKGrenadeLauncher.label>
+
+  <GD_SKGrenadeLauncher.label>그레이데일 연막탄 발사기</GD_SKGrenadeLauncher.label>
+  <GD_SKGrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 이 버전은 연막탄을 발사해 아군에게 엄폐를 제공합니다.</GD_SKGrenadeLauncher.description>
+  <GD_SKGrenadeLauncher.tools.0.label>개머리판</GD_SKGrenadeLauncher.tools.0.label>
+  <GD_SKGrenadeLauncher.tools.1.label>총열</GD_SKGrenadeLauncher.tools.1.label>
+
+  <Bullet_BSLauncher.label>산탄</Bullet_BSLauncher.label>
+
+  <GD_BSLauncher.label>그레이데일 산탄 발사기</GD_BSLauncher.label>
+  <GD_BSLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 사실 이건 간접화력 지원무기는 아니고, 근접전용 산탄 발사기입니다.</GD_BSLauncher.description>
+  <GD_BSLauncher.tools.0.label>개머리판</GD_BSLauncher.tools.0.label>
+  <GD_BSLauncher.tools.1.label>총열</GD_BSLauncher.tools.1.label>
+
+</LanguageData>

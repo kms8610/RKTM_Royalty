@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FeralTable.label>스캐빈저 벤치</FeralTable.label>
+  <FeralTable.description>급조장비를 제작하기 위한 시설입니다.</FeralTable.description>
+  <FeralTable_Blueprint.label>스캐빈저 벤치 (청사진)</FeralTable_Blueprint.label>
+  <FeralTable_Blueprint_Install.label>스캐빈저 벤치 (청사진)</FeralTable_Blueprint_Install.label>
+  <FeralTable_Frame.label>스캐빈저 벤치 (건설 중)</FeralTable_Frame.label>
+  <FeralTable_Frame.description>급조장비를 제작하기 위한 시설입니다.</FeralTable_Frame.description>
+
+</LanguageData>
