@@ -91,6 +91,8 @@
   <DisableGuestsHelpingDesc>이 옵션을 체크하면, 방문객들이 정착지 내에서 어떠한 작업도 수행하지 않습니다.</DisableGuestsHelpingDesc>
   <DisableArtAndCraft>방문객의 제작과 예술 도움 비활성</DisableArtAndCraft>
   <DisableArtAndCraftDesc>이 옵션을 체크하면, 방문객이 예술이나 제작 작업을 수행하지 않습니다.</DisableArtAndCraftDesc>
+  <DisableOperations>방문객의 수술 도움 비활성</DisableOperations>
+  <DisableOperationsDesc>이 옵션을 선택하면, 방문객들이 의료 작업을 수행하지 않습니다.</DisableOperationsDesc>
   <DisableGifts>선물 비활성</DisableGifts>
   <DisableGiftsDesc>옵션을 체크하면, 방문객이 만족하고 돌아갈때 선물을 남기지 않습니다.</DisableGiftsDesc>
   <MinGuestWorkSkill>작업 최소 등급</MinGuestWorkSkill>
