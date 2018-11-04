@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PolarisLyraeCurer.label>라이라 치료기</PolarisLyraeCurer.label>
+  <PolarisLyraeCurer.description>근처에 있는 폰의 상처를 스스로 간호해줍니다.</PolarisLyraeCurer.description>
+  <PolarisLyraeCurer_Blueprint.label>라이라 치료기 (청사진)</PolarisLyraeCurer_Blueprint.label>
+  <PolarisLyraeCurer_Blueprint_Install.label>라이라 치료기 (청사진)</PolarisLyraeCurer_Blueprint_Install.label>
+  <PolarisLyraeCurer_Frame.label>라이라 치료기 (건설 중)</PolarisLyraeCurer_Frame.label>
+  <PolarisLyraeCurer_Frame.description>근처에 있는 폰의 상처를 스스로 간호해줍니다.</PolarisLyraeCurer_Frame.description>
+
+  <PolarisShipReactor.label>메카노이드 함선 원자로</PolarisShipReactor.label>
+  <PolarisShipReactor.description>메카노이드 함선 원자로입니다.</PolarisShipReactor.description>
+  <PolarisShipReactor_Blueprint_Install.label>메카노이드 함선 원자로 (청사진)</PolarisShipReactor_Blueprint_Install.label>
+
+  <PolarisThermostat.label>온도 조절 장치</PolarisThermostat.label>
+  <PolarisThermostat.description>설정값만큼 온도를 제어할 수 있는 장치입니다.</PolarisThermostat.description>
+  <PolarisThermostat_Blueprint.label>온도 조절 장치 (청사진)</PolarisThermostat_Blueprint.label>
+  <PolarisThermostat_Blueprint_Install.label>온도 조절 장치 (청사진)</PolarisThermostat_Blueprint_Install.label>
+  <PolarisThermostat_Frame.label>온도 조절 장치 (건설 중)</PolarisThermostat_Frame.label>
+  <PolarisThermostat_Frame.description>설정값만큼 온도를 제어할 수 있는 장치입니다.</PolarisThermostat_Frame.description>
+
+  <PolarisMendingShelf.label>자가 수리선반</PolarisMendingShelf.label>
+  <PolarisMendingShelf.description>여러 종류의 아이템을 보관할 수 있는 선반으로 연료만 충분하다면 수리도 가능합니다. 이 곳에 보관된 품목은 외부에 있더라도 내구도가 닳지 않습니다.</PolarisMendingShelf.description>
+  <PolarisMendingShelf_Blueprint.label>자가 수리선반 (청사진)</PolarisMendingShelf_Blueprint.label>
+  <PolarisMendingShelf_Blueprint_Install.label>자가 수리선반 (청사진)</PolarisMendingShelf_Blueprint_Install.label>
+  <PolarisMendingShelf_Frame.label>자가 수리선반 (건설 중)</PolarisMendingShelf_Frame.label>
+  <PolarisMendingShelf_Frame.description>여러 종류의 아이템을 보관할 수 있는 선반으로 연료만 충분하다면 수리도 가능합니다. 이 곳에 보관된 품목은 외부에 있더라도 내구도가 닳지 않습니다.</PolarisMendingShelf_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Polarisbloc_EmergencyFood.label>비상 식량</Polarisbloc_EmergencyFood.label>
+  <Polarisbloc_EmergencyFood.description>어떠한 환경에서도 신체적 능력을 빠르게 회복할 수 있는 음식으로, 피로 방지성분을 첨가하여 식용자의 지속성을 효과적으로 향상시킵니다.</Polarisbloc_EmergencyFood.description>
+  <Polarisbloc_EmergencyFood.ingestible.ingestCommandString>{0} 마시기</Polarisbloc_EmergencyFood.ingestible.ingestCommandString>
+  <Polarisbloc_EmergencyFood.ingestible.ingestReportString>{0} 마시는 중.</Polarisbloc_EmergencyFood.ingestible.ingestReportString>
+
+</LanguageData>
