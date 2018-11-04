@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Microwave.label>극초단파</Microwave.label>
+  <Microwave.deathMessage>{0}(은)는 산채로 불타죽었습니다.</Microwave.deathMessage>
+
+  <KineticImpact.label>물리적 충격</KineticImpact.label>
+  <KineticImpact.deathMessage>{0}(은)는 으깨져 죽었습니다.</KineticImpact.deathMessage>
+
+  <Shredder.label>총상</Shredder.label>
+  <Shredder.deathMessage>{0}(은)는 난자당해 죽었습니다.</Shredder.deathMessage>
+
+  <MFlame.label>절단</MFlame.label>
+  <MFlame.deathMessage>{0}(은)는 베여 죽었습니다.</MFlame.deathMessage>
+
+</LanguageData>

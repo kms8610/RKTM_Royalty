@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cartridge -->
+  <Hediff_PloarisCartridge.label>카트리지</Hediff_PloarisCartridge.label>
+
+  <!-- medicines -->
+  <PolarisHealingPotion.label>치유 물약</PolarisHealingPotion.label>
+  <PolarisAntibiotic.label>복합 항생제</PolarisAntibiotic.label>
+  <PolarisReceptorAntagonist.label>수용체 길항제</PolarisReceptorAntagonist.label>
+
+  <!-- Implants -->
+  <PolarisVirtualNetChip.label>가상망 칩</PolarisVirtualNetChip.label>
+  <PolarisVirtualNetChip.labelNoun>가상망 칩</PolarisVirtualNetChip.labelNoun>
+
+  <PolarisPsionwire.label>사이언</PolarisPsionwire.label>
+  <PolarisPsionwire.labelNoun>사이언</PolarisPsionwire.labelNoun>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Vanya_IgnoreBleed.label>출혈</Vanya_IgnoreBleed.label>
+  <Vanya_IgnoreBleed.comps.0.labelTendedWell>붕대감음</Vanya_IgnoreBleed.comps.0.labelTendedWell>
+  <Vanya_IgnoreBleed.comps.0.labelTendedWellInner>봉합됨</Vanya_IgnoreBleed.comps.0.labelTendedWellInner>
+  <Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>접합됨</Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>
+  <Vanya_IgnoreBleed.comps.2.permanentLabel>찔린 흉터</Vanya_IgnoreBleed.comps.2.permanentLabel>
+  <Vanya_IgnoreBleed.injuryProps.destroyedLabel>끊어짐</Vanya_IgnoreBleed.injuryProps.destroyedLabel>
+  <Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>잘림</Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>
+
+</LanguageData>

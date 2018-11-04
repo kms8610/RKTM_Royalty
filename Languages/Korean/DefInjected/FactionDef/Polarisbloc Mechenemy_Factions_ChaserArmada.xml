@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Vanya_ChaserArmada.label>체이서 함대</Vanya_ChaserArmada.label>
+  <Vanya_ChaserArmada.description>메카노이드를 전멸시키기 위해 림월드에 오랜 시간동안 체류하고 있는 인간계의 정예 함대이며 국경지대의 수호자입니다. 이들은 메카노이드들에게 저항할 의지가 없는 작은 세력들에게는 관심도 없습니다.</Vanya_ChaserArmada.description>
+  <Vanya_ChaserArmada.fixedName>체이서 함대</Vanya_ChaserArmada.fixedName>
+  <Vanya_ChaserArmada.pawnsPlural>은하 전사</Vanya_ChaserArmada.pawnsPlural>
+  <Vanya_ChaserArmada.leaderTitle>함장</Vanya_ChaserArmada.leaderTitle>
+
+</LanguageData>
