@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!-- Temporary item stash -->
-  <PolarisTitleTradeShipPodCrash>추락</PolarisTitleTradeShipPodCrash>
-  <PolarisTradeShipPodCrash>잘못된 계산으로 인해 {0}의 {1}(이)가 근처에 떨어졌습니다.</PolarisTradeShipPodCrash>
-
-</LanguageData>

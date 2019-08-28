@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <PolarisDropSupplyBeacon.label>폴라리스 보급품 표시기</PolarisDropSupplyBeacon.label>
-  <PolarisDropSupplyBeacon.description>활성화하게 되면 가장 가까운 폴라리스 블록사의 궤도선이 연결이 되고 보안군의 군인 장비세트를 지급합니다.</PolarisDropSupplyBeacon.description>
-  <PolarisDropSupplyBeacon.comps.1.useLabel>보급품 호출하기</PolarisDropSupplyBeacon.comps.1.useLabel>
-
-</LanguageData>
