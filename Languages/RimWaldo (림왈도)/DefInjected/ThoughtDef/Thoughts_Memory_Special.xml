@@ -16,4 +16,9 @@
   <!-- EN: I was disinherited of my title. Do I need to get medieval on these people? -->
   <Disinherited.stages.disinherited.description>내 작위를 뺏겼어. 이 사람들은 중세로 돌아갈 생각인가?</Disinherited.stages.disinherited.description>
   
+  <!-- EN: neuroquake echo -->
+  <NeuroquakeEcho.stages.neuroquake_echo.label>TODO</NeuroquakeEcho.stages.neuroquake_echo.label>
+  <!-- EN: Distant, unfamilliar echoes of terror and grief. It makes me feel nervous and shaky. -->
+  <NeuroquakeEcho.stages.neuroquake_echo.description>TODO</NeuroquakeEcho.stages.neuroquake_echo.description>
+  
 </LanguageData>

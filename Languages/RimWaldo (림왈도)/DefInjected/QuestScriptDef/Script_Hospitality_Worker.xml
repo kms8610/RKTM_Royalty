@@ -17,7 +17,7 @@
   <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>보호 임무를 맡은 [letterSubject](이)가 사망했습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>포획된 방문객: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
-  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
   <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>보호 임무를 맡은 [letterSubject](이)가 포획되었습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>수감자 포섭: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
@@ -37,7 +37,7 @@
   <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>보호 임무를 맡은 [letterSubject](이)가 다른 세력에 합류하였습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>임무 실패: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
-  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingCommon] -->
+  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
   <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name] 세력은 이제 적대가 되었습니다. [failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
   <!-- EN: Shuttle destroyed -->
   <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>파괴된 왕복선</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>

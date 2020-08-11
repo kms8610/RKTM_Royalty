@@ -6,27 +6,28 @@
   <author>DesTiNy</author>
   <supportedVersions>
 	<li>1.1</li>
+	<li>1.2</li>
   </supportedVersions>
   <url>https://crowdin.com/project/RKTM</url>
   <description>
-최종 업데이트: &lt;color=orange>20.06.04&lt;/color>
-본 한글화 모드는 림왈도 전용 한글화 모드로, 언어 설정을 림왈도로 변경해야 번역이 적용됩니다.
+최종 업데이트: &lt;color=orange>20.07.15&lt;/color>
+&lt;color=orange>당분간 "Korean (한국어)", "RimWaldo (림왈도)" 둘 다 지원됩니다.&lt;/color>
 
 &lt;color=orange>[RKTM] DLC&lt;/color>와 &lt;color=orange>[RKTM] Mod&lt;/color>도 같이 구독을 해주시면 바닐라인 Core와 함께 다른 모드들도 번역이 적용됩니다.
 
 언어를 변경하는 법
 1. 본 모드 적용
 2. 우측의 언어 선택 상자 클릭
-3. RimWaldo(림왈도)를 선택
+3. 원하는 언어 선택
 4. 자동으로 재시작 후 적용확인
 
 만약 English나 Korean 이외에 아무것도 나오지 않는다면 RunTimeGC 옵션 때문이니 [설정 - 모드 옵션]에서 RunTimeGC를 찾아 번역관련 체크를 해제하셔야 다른 언어도 고를 수 있습니다.
 
 RimWaldo (림왈도) 권장 모드배열
 
-1. [RKTM] Core
+1. [RKTM] Mod
 &lt;color=orange>2. [RKTM] DLC&lt;/color>
-3. [RKTM] Mod
+3. [RKTM] Core
 4. Harmony
 5. Core
 6. Royalty
@@ -44,10 +45,10 @@ RimWaldo (림왈도) 권장 모드배열
     <li>AuthorName.KoreanTestMod2.Specific</li>
   </incompatibleWith>
   <loadAfter>
-	<li>DesTiNy.RKTM.Core</li>
+	<li>DesTiNy.RKTM.Mod</li>
   </loadAfter>
   <loadBefore>
-	<li>DesTiNy.RKTM.Mod</li>
+	<li>DesTiNy.RKTM.Core</li>
     <li>brrainz.harmony</li>
 	<li>Ludeon.RimWorld</li>
 	<li>Ludeon.RimWorld.Royalty</li>

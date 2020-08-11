@@ -3,12 +3,12 @@
   
   <!-- EN: aesthetic nose -->
   <AestheticNose.label>코 성형</AestheticNose.label>
-  <!-- EN: The nose is shaped to the user’s desired form, matching prevalent beauty standards and enhancing physical impressions. -->
+  <!-- EN: The nose is shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
   <AestheticNose.description>코를 사용자가 원하는 형태로 만들어, 일반적인 미용 표준에 부합하게 만들어 인상을 강화시킵니다.</AestheticNose.description>
   
   <!-- EN: aesthetic shaper -->
   <AestheticShaper.label>몸 성형</AestheticShaper.label>
-  <!-- EN: A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user’s taste - or that of their partner. -->
+  <!-- EN: A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user's taste - or that of their partner. -->
   <AestheticShaper.description>고도의 공학기술과 생체기술의 정점인 이 기술은 몸에 근육과 지방을 조절하여 원하는 모양을 원하는대로 조정할 수 있는 세포조직으로 교체합니다. 이 수술은 사용자의 취향 또는 파트너의 취향에 따라 다양한 체형을 형성하도록 할 수 있습니다.</AestheticShaper.description>
   
   <!-- EN: armorskin gland -->
@@ -42,13 +42,13 @@
   <GastroAnalyzer.description>이 생체공학 코 이식물은 음식 관련 냄새에 중점을 두어 감각을 향상시킵니다. 초 미세 흡수 필터는 공기 중 화합물을 감지합니다. 후각 신경 신호를 포맷하여 신경을 통해 뇌로 보냅니다. 그 결과, 사용자는 강화되지 않은 인간 사이에서 알려지지 않은, 풍부하고도 다양한 재료의 냄새를 맡아 효과적으로 요리를 할 수 있습니다. 이 장치는 사용자의 외형에 영향을 주지 않으면서 코에 설치할 수 있을 정도로 작습니다.</GastroAnalyzer.description>
   
   <!-- EN: healing enhancer -->
-  <HealingEnhancer.label>치유 증진기</HealingEnhancer.label>
+  <HealingEnhancer.label>재생력 증진기</HealingEnhancer.label>
   <!-- EN: Releases nanomachines and healing factors that speed up wound healing. This implant only helps with physical wounds, and does nothing to combat disease or other health problems. -->
   <HealingEnhancer.description>상처 치유 속도를 높이는 나노 머신과 치유 인자를 생산합니다. 이 이식물은 물리적인 상처에만 도움이 되며, 바이러스 성 질병이나 다른 건강 문제와는 아무런 관련이 없습니다.</HealingEnhancer.description>
   
   <!-- EN: immunoenhancer -->
   <Immunoenhancer.label>면역 증진기</Immunoenhancer.label>
-  <!-- EN: An analysis computer inspects the bloodstream, classifies pathogens, and rapidly prompts the body’s natural immune system to respond to them faster than it could alone. This speeds immunity gain significantly. -->
+  <!-- EN: An analysis computer inspects the bloodstream, classifies pathogens, and rapidly prompts the body's natural immune system to respond to them faster than it could alone. This speeds immunity gain significantly. -->
   <Immunoenhancer.description>이 면역 증진기는 혈류를 검사하고 병원체를 분류하여 신체의 자연 면역계를 도와 더 빠르게 반응하도록 도와줍니다. 면역력을 크게 향상시켜 줄 것입니다.</Immunoenhancer.description>
   
   <!-- EN: learning assistant -->
@@ -58,7 +58,7 @@
   
   <!-- EN: love enhancer -->
   <LoveEnhancer.label>애정 증진기</LoveEnhancer.label>
-  <!-- EN: Humans have always tried to use every new technology to enhance sexual satisfaction. Bionics were no exception. This implant makes physical and chemical changes to the body which enhance the experience of lovin’ for both partners - both physically and psychologically. The implant unit can adapt to enhance both men and women upon being implanted. -->
+  <!-- EN: Humans have always tried to use every new technology to enhance sexual satisfaction. Bionics were no exception. This implant makes physical and chemical changes to the body which enhance the experience of lovin' for both partners - both physically and psychologically. The implant unit can adapt to enhance both men and women upon being implanted. -->
   <LoveEnhancer.description>인간은 항상 성적 만족을 향상시키기 위해 모든 새로운 기술을 사용하려고 노력했습니다. 생체공학도 예외는 아닙니다. 이 이식물은 신체를 물리적, 화학적으로 변화시켜 신체적으로나 심리적으로 파트너 모두에게 사랑의 경험을 향상시킵니다. 이 이식물은 남성과 여성 모두에게 이식할 수 있습니다.</LoveEnhancer.description>
   
   <!-- EN: neurocalculator -->
@@ -68,7 +68,7 @@
   
   <!-- EN: nuclear stomach -->
   <NuclearStomach.label>핵융합 위</NuclearStomach.label>
-  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body’s need for food energy. Food is required only to replace matter lost from the body, reducing the user’s intake needs significantly. This artifical stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
+  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artifical stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
   <NuclearStomach.description>복잡한 화학 합성으로 결합된 초미세 원자로는, 음식대신 신체에 에너지를 공급합니다. 음식은 신체가 잃어버린 물질을 대체하기 위해서만 필요하므로 사용자의 섭취량을 크게 줄입니다. 이 인공적인 위는 식중독에 걸리지 않습니다. 그러나 방사선을 차폐할 여지가 거의 없으므로, 암의 위험을 증가시킵니다.</NuclearStomach.description>
   
   <!-- EN: reprocessor stomach -->

@@ -17,5 +17,10 @@
   <Stat_Thing_Ingestible_MaxSatisfiedTitle>작위 만족 한계</Stat_Thing_Ingestible_MaxSatisfiedTitle>
   <!-- EN: The highest royal title whose food requirements are satisfied by this. -->
   <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>이 음식으로 만족시킬 수 있는 작위의 한도를 나타냅니다.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <!-- EN: Traits -->
+  <Stat_Thing_PersonaWeaponTrait_Label>TODO</Stat_Thing_PersonaWeaponTrait_Label>
+  <!-- EN: This weapon's individual traits. -->
+  <Stat_Thing_PersonaWeaponTrait_Desc>TODO</Stat_Thing_PersonaWeaponTrait_Desc>
   
 </LanguageData>

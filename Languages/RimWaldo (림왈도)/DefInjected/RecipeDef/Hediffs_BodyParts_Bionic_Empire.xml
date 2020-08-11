@@ -58,11 +58,11 @@
   <InstallGastroAnalyzer.jobString>냄새 분석기 설치 중.</InstallGastroAnalyzer.jobString>
   
   <!-- EN: install healing enhancer -->
-  <InstallHealingEnhancer.label>치유 증진기 설치</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.label>재생력 증진기 설치</InstallHealingEnhancer.label>
   <!-- EN: Install a healing enhancer. -->
-  <InstallHealingEnhancer.description>치유 증진기를 설치합니다.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.description>재생력 증진기를 설치합니다.</InstallHealingEnhancer.description>
   <!-- EN: Installing healing enhancer. -->
-  <InstallHealingEnhancer.jobString>치유 증진기 설치 중.</InstallHealingEnhancer.jobString>
+  <InstallHealingEnhancer.jobString>재생력 증진기 설치 중.</InstallHealingEnhancer.jobString>
   
   <!-- EN: install immunoenhancer -->
   <InstallImmunoenhancer.label>면역 증진기 설치</InstallImmunoenhancer.label>
@@ -170,11 +170,11 @@
   <RemoveGastroAnalyzer.jobString>냄새 분석기 제거 중.</RemoveGastroAnalyzer.jobString>
   
   <!-- EN: remove healing enhancer -->
-  <RemoveHealingEnhancer.label>치유 증진기 제거</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.label>재생력 증진기 제거</RemoveHealingEnhancer.label>
   <!-- EN: Remove healing enhancer. -->
-  <RemoveHealingEnhancer.description>치유 증진기를 제거합니다.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.description>재생력 증진기를 제거합니다.</RemoveHealingEnhancer.description>
   <!-- EN: Removing healing enhancer. -->
-  <RemoveHealingEnhancer.jobString>치유 증진기 제거 중.</RemoveHealingEnhancer.jobString>
+  <RemoveHealingEnhancer.jobString>재생력 증진기 제거 중.</RemoveHealingEnhancer.jobString>
   
   <!-- EN: remove immunoenhancer -->
   <RemoveImmunoenhancer.label>면역 증진기 제거</RemoveImmunoenhancer.label>

@@ -52,6 +52,8 @@
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>일단 주인을 정하게 되면, 무기의 자아는 다른 사람의 손길을 거부할 것입니다.</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>TODO</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>이 아이템을 착용하시겠습니까?</RoyalWeaponEquipConfirmation>
   
@@ -70,7 +72,9 @@
   <RoyalWithConceitedTrait>{PAWN_labelShort}(은)는 {2}이므로 작위의 권한을 완전히 존중해야 합니다. {PAWN_labelShort}(은)는 저급 음식을 먹을 수 있고, 특정 작업유형을 거부할 수 있으며, 법령을 발표합니다. 유연한 다른 정착민이 더 적합할 수 있습니다.</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}(은)는 {2}이므로, 사이링크를 사용못할 수도 있습니다.</RoyalWithTraitAffectingPsylinkNegatively>
-  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}의 사이링크가 {ABILITY}(을)를 사용할만큼 단계가 높지 않습니다.\n\n그래도 주문을 얻으시겠습니까??</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
 
 </LanguageData>
